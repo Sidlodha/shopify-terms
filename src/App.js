@@ -124,7 +124,7 @@ function App() {
           <h3>
             Contact Us For more information about our privacy practices, if you
             have questions, or if you would like to make a complaint, please
-            contact us by e-mail at [[INSERT CONTACT EMAIL]] or by mail using
+            contact us by e-mail at <email>rohan@uplara.com</email> or by mail using
             the details provided below: [[INSERT PHYSICAL ADDRESS, AND DATA
             PROTECTION OFFICER CONTACT INFORMATION IF RELEVANT]]
           </h3>
