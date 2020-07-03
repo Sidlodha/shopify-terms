@@ -10,8 +10,8 @@ function App() {
         </p>
         <div style={{ padding: "3% 10% 10% 10%" }}>
           <h2>
-            Perfect Fit provides [[DESCRIBE SERVICE APP PROVIDES]] "the Service"
-            to merchants who use Shopify to power their stores. This Privacy
+            We empower merchants to provide the best sizing experience for their consumers. First, we allow them to make their sizing charts. Second, we allow consumers to enter in the brand of their favorite garment and use that to recommend sizing in current brand. 
+            This Privacy
             Policy describes how personal information is collected, used, and
             shared when you install or use the App in connection with your
             Shopify-supported store.
@@ -26,94 +26,20 @@ function App() {
           DESCRIPTIONS]]
           <br />
           <br />
-          [[ADD IN DATA COLLECTED INDEPENDENTLY FROM SHOPIFY APIS --EXAMPLES
-          BELOW]] Additionally, we collect the following types of personal
+          Additionally, we collect the following types of personal
           information from you and/or your customers once you have installed the
-          App: [[IF COLLECTING REGISTRATION INFORMATION INDEPENDENTLY FROM
-          MERCHANT, LIST SPECIFIC INFORMATION COLLECTED]]Information about you
-          and others who may access the App on behalf of your store, such as
-          your name, address, email address, phone number, and billing
-          information; [[IF COLLECTING/LOGGING INFORMATION ABOUT INDIVIDUAL
-          BUYERS, LIST SPECIFIC INFORMATION COLLECTED]]Information about
-          individuals who visit your store, such as their IP address, web
-          browser details, time zone, and information about the cookies
-          installed on the particular device. [[ADD ANY OTHER COLLECTED PERSONAL
-          INFORMATION]]
+          App: 
+          <br/>
+          Local storage on merchant : We have a small token we store to authenticate the user.
           <br />
-          <br />
-          We collect personal information directly from the relevant individual,
-          through your Shopify account[[ADD IF RELEVANT]], or using the
-          following technologies: “Cookies” are data files that are placed on
-          your device or computer and often include an anonymous unique
-          identifier. For more information about cookies, and how to disable
-          cookies, visit http://www.allaboutcookies.org. “Log files” track
-          actions occurring on the Site, and collect data including your IP
-          address, browser type, Internet service provider, referring/exit
-          pages, and date/time stamps. “Web beacons,” “tags,” and “pixels” are
-          electronic files used to record information about how you browse the
-          Site. [[INSERT DESCRIPTIONS OF OTHER TYPES OF TRACKING TECHNOLOGIES
-          USED]]
+          Local storage on consumer : In this token, we keep some state so if the user goes to a different product, they don't have to re-enter the form. This local storage does not leave the consumer's device. 
           <br />
           <br />
           <h3>How Do We Use Your Personal Information?</h3>
           <br />
           <br />
           We use the personal information we collect from you and your customers
-          in order to provide the Service and to operate the App. [[ADD IF
-          RELEVANT]]Additionally, we use this personal information to:
-          Communicate with you; Optimize or improve the App; and Provide you
-          with information or advertising relating to our products or services.
-          [[INSERT OTHER USES OF INFORMATION, INCLUDING SPECIFIC REFERENCE TO
-          BEHAVIOURAL/TARGETED ADVERTISING IF RELEVANT]]
-          <br />
-          <br />
-          <h3>Sharing Your Personal Information</h3>
-          <br />
-          <br />
-          [[DESCRIBE THIRD PARTIES WITH WHOM YOU MAY SHARE PERSONAL INFORMATION
-          YOU COLLECT]]
-          <br />
-          <br />
-          Finally, we may also share your Personal Information to comply with
-          applicable laws and regulations, to respond to a subpoena, search
-          warrant or other lawful request for information we receive, or to
-          otherwise protect our rights. [[INCLUDE IF USING REMARKETING OR
-          TARGETED ADVERTISING]] Behavioural Advertising As described above, we
-          use your Personal Information to provide you with targeted
-          advertisements or marketing communications we believe may be of
-          interest to you. For more information about how targeted advertising
-          works, you can visit the Network Advertising Initiative’s (“NAI”)
-          educational page at
-          http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
-          You can opt out of targeted advertising by: [[INCLUDE OPT-OUT LINKS
-          FROM WHICHEVER SERVICES BEING USED. COMMON LINKS INCLUDE: FACEBOOK;
-          GOOGLE; BING]] Additionally, you can opt out of some of these services
-          by visiting the Digital Advertising Alliance’s opt-out portal at:
-          http://optout.aboutads.info/.
-          <br />
-          <br />
-          [[INCLUDE IF LOCATED IN OR IF YOU SERVICE MERCHANTS/CUSTOMERS IN
-          EUROPE]] Your Rights If you are a European resident, you have the
-          right to access personal information we hold about you and to ask that
-          your personal information be corrected, updated, or deleted. If you
-          would like to exercise this right, please contact us through the
-          contact information below.
-          <br />
-          <br />
-          Additionally, if you are a European resident we note that we are
-          processing your information in order to fulfill contracts we might
-          have with you (for example if you make an order through the Site), or
-          otherwise to pursue our legitimate business interests listed above.
-          Additionally, please note that your information will be transferred
-          outside of Europe, including to Canada and the United States.
-          <br />
-          <br />
-          [[ADD IN INFORMATION ABOUT EU-U.S. PRIVACY SHIELD IF RELEVANT]]
-          <br />
-          <br />
-          Data Retention When you place an order through the Site, we will
-          maintain your Order Information for our records [[DESCRIBE RETENTION
-          PRACTICES]]unless and until you ask us to delete this information.
+          in order to provide the Service and to operate the App.
           <br />
           <br />
           Changes We may update this privacy policy from time to time in order
@@ -125,9 +51,11 @@ function App() {
             Contact Us For more information about our privacy practices, if you
             have questions, or if you would like to make a complaint, please
             contact us by e-mail at <email>rohan@uplara.com</email> or by mail using
-            the details provided below: [[INSERT PHYSICAL ADDRESS, AND DATA
-            PROTECTION OFFICER CONTACT INFORMATION IF RELEVANT]]
+            the details provided below: 
           </h3>
+          <p>Rohan Mahajan</p>
+          <p>Email: <email>rohan@uplara.com</email></p>
+          <p>Address: 23605 Oak valley road Cupertino CA 95014</p>
         </div>
       </header>
     </div>
