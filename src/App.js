@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p style={{ fontSize: "18px" }}>
-          <h1>Perfect Fit Privacy Policy</h1>
+          <h1>Uplara Privacy Policy</h1>
         </p>
         <div style={{ padding: "3% 10% 10% 10%" }}>
           <h2>
